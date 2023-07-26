@@ -1,0 +1,13 @@
+.h1{
+    font-size: 50px;
+    color: #d5eeff;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+
+.p{
+    font-size: 29px;
+    color: #d5eeff;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+    width: 50%;
+    margin: auto;
+}

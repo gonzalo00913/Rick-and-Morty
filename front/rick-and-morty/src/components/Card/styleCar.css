@@ -1,0 +1,29 @@
+.container-card{
+    background-color: #ff895d;
+    width: 320px;
+    border-radius: 20px;
+    color:  #d5eeff;
+    box-shadow: 0 0 10px #000000;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+    margin-top: 60px;
+}
+.container-btn-favorite{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 20px 10px 20px;
+}
+
+.x{
+    background-color: red;
+    color: white;
+    border-radius: 8px;
+}
+.favorite{
+    background-color: #ff895d;
+    border: none;
+    font-size: 24px;
+}
+
+.detail{
+    color: #d5eeff;
+}

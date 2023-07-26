@@ -1,0 +1,32 @@
+.containerNav{
+ 
+  height: 90px;
+  width: 100%;
+  background-color:#ff895d ;
+  display: flex;
+  justify-content: center;
+}
+.links{
+
+  margin-right: 600px;
+  margin-top: 20px;
+}
+
+.link{
+  margin: 20px;
+  font-size: 25px;
+  list-style: none;
+  text-decoration: none;
+  color: #d5eeff;
+  text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+
+.loguot{
+
+  height: 22px;
+  margin-top: 25px;
+  margin-left: 5px;
+  border-radius: 10px;
+  display: flex;
+ 
+}

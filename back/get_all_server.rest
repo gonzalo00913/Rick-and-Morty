@@ -1,0 +1,23 @@
+GET http://localhost:3001/detail/201
+###
+GET http://localhost:3001/all
+###
+GET http://localhost:3001/onSearch/5
+
+###
+
+POST http://localhost:3001/register
+Content-Type: application/json
+
+{
+    "email": "jhon",
+    "password": "01-201-7160"
+}
+###
+GET http://localhost:3001/registerUser
+Content-Type: application/json
+
+{
+    "email":"gmasa@gmail.com",
+    "password":"pass123"
+}
