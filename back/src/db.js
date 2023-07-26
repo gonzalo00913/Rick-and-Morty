@@ -1,4 +1,4 @@
-const { Sequelize } = require('sequelize');
+/* const { Sequelize } = require('sequelize');
 const UserModel = require("./models/User");
 const FavoriteModel = require("./models/Favorite");
 require('dotenv').config();
@@ -22,4 +22,4 @@ Favorite.belongsToMany(User, { through: "user_favorite" });
 module.exports = {
   ...sequelize.models,
   conn: sequelize
-};
+}; */
